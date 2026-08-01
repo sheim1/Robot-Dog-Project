@@ -29,6 +29,3 @@ Conclusion
 
 This project helped me improve my skills in 3D modeling and learn more about designing mechanical parts using Fusion 360.
 
-Author
-
-Shaimaa
